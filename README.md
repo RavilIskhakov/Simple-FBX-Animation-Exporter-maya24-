@@ -1,2 +1,1 @@
-Maya tool for anyone who regularly pushes batches of animations from Maya into Unreal. You point it at a folder of .ma/.mb files (animation done on the same rig), and the script transfers the keys to your rig one by one, lines them up back-to-back on the timeline, then fills the Game Exporter itself: clip names, start, end. After that you just hit Export. Wrote it for myself after getting tired of typing 30 clips by hand before every build.
-<img width="1446" height="214" alt="image" src="https://github.com/user-attachments/assets/14fd97b4-04a9-4279-9dca-06a10e0149de" />
+
